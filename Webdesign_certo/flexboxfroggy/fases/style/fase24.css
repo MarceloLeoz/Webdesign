@@ -11,11 +11,10 @@ img {
 
 main {
     display: flex;
-    flex-direction: column-reverse;
-    flex-wrap: wrap;
-    align-content: space-between;
+    flex-flow: column-reverse wrap-reverse;
     justify-content: center;
-    flex-wrap: wrap-reverse
+    align-content: space-between;
+    min-height: 100vh;
 }
 
 .circle {
