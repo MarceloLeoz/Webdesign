@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+/**Personalização do corpo**/
+body {
+    background-color: black;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(0, 174, 255);
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav {
+    padding: 10px;
+}
+
+.conteudo {
+    text-align: center;
+}
+
+.conteudo a {
+    text-decoration: none;
+    color: white;
+}
+
+/**Alterações de Cores**/
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    border-color:rgb(0, 174, 255);
+}
