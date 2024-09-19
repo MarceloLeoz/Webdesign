@@ -4,7 +4,11 @@
     border: 0px;
 }
 
-/**Personalização do corpo**/
+@font-face {
+    font-family: topbar;
+    src: url(letras/collegiateflf/CollegiateOutlineFLF.ttf);
+}
+
 body {
     background-color: black;
 }
@@ -14,7 +18,7 @@ body {
 }
 
 a {
-    text-decoration: none;
+    font-family: topbar;
     color: rgb(0, 174, 255);
 }
 
@@ -40,6 +44,7 @@ nav {
 
 h1 {
     color: white;
+    font-family: subtitulo;
 }
 
 h2 {
