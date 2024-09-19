@@ -5,6 +5,11 @@
 }
 
 @font-face {
+    font-family: subtitulo;
+    src: url(letras/roman_sd/Roman\ SD.ttf);
+}
+
+@font-face {
     font-family: topbar;
     src: url(letras/collegiateflf/CollegiateOutlineFLF.ttf);
 }
