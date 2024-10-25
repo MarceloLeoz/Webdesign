@@ -1,0 +1,12 @@
+/* Adicione seus estilos aqui */
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.botaoAtivo {
+    background-color: blue;
+}
